@@ -1,0 +1,7 @@
+1. **Can you explain Terraform modules and their importance in managing infrastructure as code?**  
+2. **What is a Terraform state file, and why is it important? How does remote state work, and what role does the Terraform backend play?**  
+3. **What are Terraform workspaces, and in what scenarios would you use them?**  
+4. **How do you securely handle sensitive data in Terraform? What methods do you use to prevent secrets from being exposed in the state file?**  
+5. **What does it mean to "taint" a resource in Terraform? When and why would you use this feature?**  
+6. **Have you faced any major challenges while working with Terraform? How did you resolve them?**  
+7. **What is Terraform import, and when should you use it? If a resource is already created outside of Terraform, how can you bring it under Terraform’s management and retrieve its state?**  
