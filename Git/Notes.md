@@ -12,9 +12,9 @@ Content structured for professional presentation.
 
 🔧 To Be Done:
 
-Add/update data in the Projects section.
+Add/update **data** in the Projects section.
 
-Make minor content changes to reflect latest updates.
+Make minor content **change**s to reflect latest updates.
 
 Improve presentation for better readability and user experience.
 
